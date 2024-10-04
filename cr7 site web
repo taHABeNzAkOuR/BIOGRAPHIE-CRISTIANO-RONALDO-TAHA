@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biographie de Cristiano Ronaldo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #d4af37; /* Arrière-plan doré */
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #2c3e50;
+            color: white;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #2980b9;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Biographie de Cristiano Ronaldo</h1>
+    <h2>Par Taha Benzakour</h2>
+</header>
+
+<section>
+    <h2>Informations personnelles</h2>
+    <ul>
+        <li><strong>Nom complet :</strong> Cristiano Ronaldo dos Santos Aveiro</li>
+        <li><strong>Date de naissance :</strong> 5 février 1985</li>
+        <li><strong>Lieu de naissance :</strong> Funchal, Madère, Portugal</li>
+        <li><strong>Taille :</strong> 1,87 m</li>
+        <li><strong>Position :</strong> Attaquant</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg" alt="Cristiano Ronaldo">
+</section>
+
+<section>
+    <h2>Jeunesse et formation</h2>
+    <ul>
+        <li>Il a commencé à jouer au football à l'âge de 7 ans.</li>
+        <li>À 12 ans, il déménage à Lisbonne pour rejoindre le Sporting CP.</li>
+        <li>Il a été le premier membre de sa famille à devenir professionnel dans le football.</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Cristiano_Ronaldo_young.jpg" alt="Cristiano Ronaldo jeune">
+</section>
+
+<section>
+    <h2>Carrière</h2>
+    <h3>Clubs</h3>
+    <ul>
+        <li><strong>Sporting CP :</strong> 2002-2003 (31 matchs, 5 buts)</li>
+        <li><strong>Manchester United :</strong> 2003-2009 (292 matchs, 118 buts)</li>
+        <li><strong>Real
